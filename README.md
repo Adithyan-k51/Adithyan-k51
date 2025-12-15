@@ -1,7 +1,17 @@
 
 
+<a href="https://go.dev">
+  <img
+    src="https://go.dev/doc/gopher/fifteen.gif"
+    alt="MasterHead"
+    width="400"
+  />
+</a>
+
+
 <h1 align="center">Hi 👋, I'm ADITHYAN</h1>
 <h3 align="center">A passionate Go developer from India</h3>
+<img align="right" width="350" src="https://miro.medium.com/0*NCKH5j7mncvMVBcR.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyan-k51&label=Profile%20views&color=0e75b6&style=flat" alt="adithyan-k51" /> </p>
 
